@@ -1,0 +1,6 @@
+{
+  "appId": "app.planner.study",
+  "appName": "پلنر درسی",
+  "webDir": "www",
+  "android": { "backgroundColor": "#F5F8FD" }
+}
