@@ -1,5 +1,5 @@
 /* Planner service worker — bump V on every release */
-const V='planner-v7',
+const V='planner-v8',
   STATIC=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./Kalameh-Medium.woff'];
 
 self.addEventListener('install',e=>e.waitUntil(
